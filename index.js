@@ -6,7 +6,7 @@ const token ='';
 //login
 
 const PREFIX = "!";
-const IP = 'chuchu.catcatlog.com';
+const IP = ''; // Your IP
 const mod_name = "FTB Presents Direwolf20 1.12";
 
 bot.on('ready',() =>{
